@@ -1,0 +1,14 @@
+{
+    "str_appTitle": "Minha Aplicação",
+    "str_mail": "E-mail",
+    "str_password": "Senha",
+    "str_facebookEntry": "ENTRAR COM FACEBOOK",
+    "str_googleEntry": "ENTRAR COM GOOGLE",
+    "str_mailEntry": "ENTRAR COM E-MAIL",
+    "str_register": "REGISTRAR-SE",
+
+    "frs_typeMail": "Digite seu e-mail",
+    "frs_typePassword": "Digite sua senha",
+    "frs_forgotPassword": "Esqueci minha senha"
+    
+}
